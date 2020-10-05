@@ -10,4 +10,4 @@ Sample screen shot of app <br>
  
  <br>
  <br>
- Now you will never be confused on what sensors you have on your phone!
+ <B>Now you will never be confused on what sensors you have on your phone!</B>

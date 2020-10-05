@@ -4,6 +4,7 @@ This simple android app was developed by me because it gives you an idea of what
 <br>
 Use anyway you want but you will have to build it first using android studios its not currently hosted on google play store yet.
 <br>
+<br>
 Sample screen shot of app <br>
  <img src="ScreenShotOFSensorTester.png" alt="SensorTester" width="500" height="800"> 
  

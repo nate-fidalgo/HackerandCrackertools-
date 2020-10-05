@@ -15,4 +15,4 @@ Sample screen shot of app <br>
  <B>Now you will never be confused on what sensors you have on your phone!</B>
 <br>
 <br>
- <img src="ScreenShotOFSensorTester.png" alt="SensorTester" width="500" height="800"> 
+ <img src="SensorTesterICON.png" alt="SensorTester" width="500" height="800"> 

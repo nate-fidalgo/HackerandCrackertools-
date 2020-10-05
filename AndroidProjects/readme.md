@@ -4,5 +4,5 @@ This simple android app was developed by me because it gives you an idea of what
 <br>
 Uses anyway you want but you will have to build in your android studios its not currently hosted on google play store yet.
 
-Output screen shot of app 
- <img src="ScreenShotOFSensorTester.png" alt="SensorTester" width="500" height="600"> 
+Output screen shot of app <br>
+ <img src="ScreenShotOFSensorTester.png" alt="SensorTester" width="500" height="800"> 

@@ -4,7 +4,9 @@ This is a java disassemblier for any arch supported by binutils.
 package com.tools.mcode.disasm;
 
 public class Mcode {
-
+        //McodeUtils has all the constants for each of the parameters all you got to do is pick the right ones that you want.
+	//And supply the machine code in a char []  array
+	//parameters  --->       //the machine code //big endian/little endian  //cpu arch	//arch family	//AT&T ,INTEL,Niether	
 	public native String[] disassemble(char machinecode[] , int endian , long machine , long platform, int dialect ) ;
 	
 	static {

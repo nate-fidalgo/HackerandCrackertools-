@@ -50,3 +50,10 @@ public class Mcode {
 </code>
 </pre>
 
+
+<pre>
+<code>
+Decompiled result ===>  push   %rbp
+Number of instruction bytes = 1
+</code>
+</pre>

@@ -77,3 +77,8 @@ Exception in thread "main" java.lang.UnsatisfiedLinkError: no machine in java.li
 
 </code>
 </pre>
+<br>
+
+Eventually all get around by putting up javadocs but right at the moment just dont have it in me.
+So you all have to read thru code a little bit. Eventually i will provide the JNI libraries so you guys can take a look.
+If interested.

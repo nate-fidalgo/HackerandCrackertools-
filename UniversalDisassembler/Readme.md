@@ -50,7 +50,23 @@ public class Mcode {
 </code>
 </pre>
 
+<br>
+The result from the test main i have should give you this. Warning remember to include the library and the jar in the class path correctly or you will get
+<br>
 
+<code>
+<pre>
+Exception in thread "main" java.lang.UnsatisfiedLinkError: no machine in java.library.path: [/usr/java/packages/lib, /usr/lib/x86_64-linux-gnu/jni, /lib/x86_64-linux-gnu, /usr/lib/x86_64-linux-gnu, /usr/lib/jni, /lib, /usr/lib]
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2670)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:830)
+	at java.base/java.lang.System.loadLibrary(System.java:1873)
+	at com.tools.mcode.disasm.Mcode.<clinit>(Mcode.java:14)
+
+</code>
+</pre>
+
+
+<br>
 <pre>
 <code>
 Decompiled result ===>  push   %rbp
